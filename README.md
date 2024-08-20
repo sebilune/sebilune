@@ -22,15 +22,6 @@
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=me@sebilune.com&su=Your+Concern&body=Your+message+to+me&tf=cm"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp;&nbsp;<a href="https://discord.com/users/641805554989137953"><img src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
 
-<h1></h1>
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<h1></h1>
-
 <p align="center">
   <a href="https://github.com/sebilune">
     <img src="https://komarev.com/ghpvc/?username=sebilune&color=blue&style=flat)" />
