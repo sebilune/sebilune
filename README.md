@@ -19,9 +19,10 @@
 
 <h3 align="center">Getting in touch</h3>
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=sebilune@proton.me&su=Your+Concern&body=Your+message+to+me&tf=cm"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="mailto:sebilune@duck.com?subject=Your%20Inquiry&body=Your%20message%20to%20me%20%5E_%5E">sebilune@proton.me</a>
 </p>
 
+<h3 align="center"></h3>
 <p align="center">
   <a href="https://github.com/sebilune">
     <img src="https://komarev.com/ghpvc/?username=sebilune&color=blue&style=flat)" />
