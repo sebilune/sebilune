@@ -13,7 +13,7 @@
 <h3 align="center">Skills<h3>
 <p align="center">
   <a href="https://github.com/sebilune">
-    <img src="https://skillicons.dev/icons?i=bun,nodejs,nextjs,react,ts,tailwind,sass,bootstrap,git,bash,cpp,python,vscode,vim,debian,apple&perline=8" />
+    <img src="https://skillicons.dev/icons?i=bun,nodejs,nextjs,react,ts,tailwind,go,sass,git,bash,docker,python,vscode,vim,debian,windows&perline=8" />
   </a>
 </p>
 
