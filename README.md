@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hey, I'm Sebi&nbsp;</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey, I'm &lt;Sebi/&gt;&nbsp;</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
 
   [![Mail](https://img.shields.io/badge/Mail-sebilune%40proton.me-red?style=flat&logo=gmail&logoColor=white)](mailto:sebilune@proton.me)
@@ -15,8 +15,9 @@
 
 <h3 align="center">Full-stack Software Engineer specialized in the development of modern websites, apps, tools, and everything in between. Feel welcome to connect with me or get in touch regarding inquiries, input, criticism, or quite literally anything else.</h3>
 
-<br><br>
+<br>
 
+<h3 align="center">&lt;Skills/&gt;</h3>
 <p align="center">
   <a href="https://github.com/sebilune">
     <img src="https://skillicons.dev/icons?i=next,vite,react,ts,tailwind,sass,bun,nodejs,postgresql,git,bash,docker,python,go,vscode,vim,linux,windows&perline=9" />
