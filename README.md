@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">Eager to contribute to innovative projects and continuously expand skills. Feel welcome to connect with me or get in touch regarding inquiries, input, criticism, or quite literally anything else.</p>
+<p align="center">Full-stack Software Developer specialized in the development of modern websites, apps, tools, and everything in between. Feel welcome to connect with me or get in touch regarding inquiries, input, criticism, or quite literally anything else.</p>
 
 <h1></h1>
 
