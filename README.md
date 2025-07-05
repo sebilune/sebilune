@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h3 align="center">Getting in touch</h3>
+<h3 align="center">Connect</h3>
 <p align="center">
   <a href="mailto:sebilune@proton.me?subject=Your%20Inquiry&body=Your%20message%20to%20me%20%5E_%5E">sebilune@proton.me</a>
 </p>
