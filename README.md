@@ -17,7 +17,7 @@
 
 <br>
 
-<h3 align="center">&lt;Skills/&gt;</h3>
+<h3 align="center">&lt;Skills /&gt;</h3>
 <p align="center">
   <a href="https://github.com/sebilune">
     <img src="https://skillicons.dev/icons?i=next,vite,react,ts,tailwind,sass,bun,nodejs,postgresql,git,bash,docker,python,go,vscode,vim,linux,windows&perline=9" />
