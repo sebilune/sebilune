@@ -8,7 +8,7 @@
 
 <p align="center">Full-stack Software Developer specialized in the development of modern websites, apps, tools, and everything in between. Feel welcome to connect with me or get in touch regarding inquiries, input, criticism, or quite literally anything else.</p>
 
-<h1></h1>
+<br>
 
 <h3 align="center">Skills<h3>
 <p align="center">
@@ -16,6 +16,8 @@
     <img src="https://skillicons.dev/icons?i=next,vite,react,ts,tailwind,sass,bun,nodejs,postgresql,git,bash,docker,python,go,vscode,vim,linux,windows&perline=9" />
   </a>
 </p>
+
+<br>
 
 <h3 align="center">Connect</h3>
 <p align="center">
