@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hey, I'm &lt;Sebi/&gt;&nbsp;</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey, I'm Sebi&nbsp;</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
 
   [![Mail](https://img.shields.io/badge/Mail-sebilune%40proton.me-red?style=flat&logo=gmail&logoColor=white)](mailto:sebilune@proton.me)
