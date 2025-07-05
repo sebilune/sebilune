@@ -21,8 +21,11 @@
 
 <h3 align="center">Connect</h3>
 <p align="center">
-  <a href="mailto:sebilune@proton.me?subject=Your%20Inquiry&body=Your%20message%20to%20me%20%5E_%5E">sebilune@proton.me</a>
+  <a href="mailto:sebilune@proton.me">Mail</a>
+  <a href="https://discord.com/users/641805554989137953">Discord</a>
 </p>
+
+<br>
 
 <h3 align="center"></h3>
 <p align="center">
