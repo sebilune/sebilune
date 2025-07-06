@@ -13,11 +13,10 @@
   </a>
 </p>
 
-<h3 align="center">Full-stack Software Engineer specialized in the development of modern websites, apps, tools, and everything in between. Feel welcome to connect with me or get in touch regarding inquiries, input, criticism, or quite literally anything else.</h3>
+<h4 align="center">Full-stack Software Engineer specialized in the development of modern websites, apps, tools, and everything in between. Feel welcome to connect with me or get in touch regarding inquiries, input, criticism, or quite literally anything else.</h4>
 
 <br>
 
-<h3 align="center">&lt;Skills /&gt;</h3>
 <p align="center">
   <a href="https://github.com/sebilune">
     <img src="https://skillicons.dev/icons?i=next,vite,react,ts,tailwind,sass,bun,nodejs,postgresql,git,bash,docker,python,go,vscode,vim,linux,windows&perline=9" />
