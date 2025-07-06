@@ -7,13 +7,7 @@
   
 </div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Engineer+&hearts;++;Computer+Science+Student,;Linux+Power+User,;Active+Learner/Researcher,;Homelab+Enthusiast," alt="Typing SVG">
-  </a>
-</p>
-
-<h4 align="center">Full-stack Software Engineer specialized in the development of modern websites, apps, tools, and everything in between. Feel welcome to connect with me or get in touch regarding inquiries, input, criticism, or quite literally anything else.</h4>
+<h3 align="center">Full-stack Software Engineer specialized in the development of modern websites, apps, tools, and everything in between. Feel welcome to connect with me or get in touch regarding inquiries, input, criticism, or quite literally anything else.</h3>
 
 <br>
 
